@@ -107,7 +107,9 @@ image {
 
 .main {
   position: relative;
+  /* position: absolute; */
   height: 1398px;
+  /* height: 100%; */
 }
 
 .main__bg {
